@@ -46,12 +46,7 @@
 - Verbindung ins Internet via Swisscom-ADSL
 
 ### Aufgaben
-1. **Topologie-Zeichnung**: Erstellung einer logischen Netzwerktopologie (meist Stern/Baum)
-2. **Verkabelungsplan**: Physischer Aufbau mit UGV-Kabel, Patchpanel, RJ45-Dosen
-3. **Kabelwahl**:
-   - Für UGV: Drahtkabel (z. B. CAT7 S/FTP)
-   - Für Patchkabel: Litzenkabel (z. B. CAT6 UTP)
-4. **Materialsuche**: Anbieter recherchieren, Eigenschaften & Preis dokumentieren
+[Aufgabe 1](../Aufgaben/Tag1/Aufgabe1.md)
 
 ## 🔌 Geräte zur Verbindung
 - **Switch (L2)**: Verbindet Hosts im selben Netz
