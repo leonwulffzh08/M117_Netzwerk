@@ -60,4 +60,7 @@
 
 > Merksatz: „UGV = Draht, Patch = Litze“
 
+
+[Linktext zur PDF](./Pdfs/Tag1.pdf)
+
 ---
