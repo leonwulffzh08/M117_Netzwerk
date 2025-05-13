@@ -46,7 +46,7 @@
 - Verbindung ins Internet via Swisscom-ADSL
 
 ### Aufgaben
-[Aufgabe 1](../Aufgaben/Tag1/Aufgabe1.md)
+[Aufgabe 1](./Aufgaben/Tag1/Aufgabe1.md)
 
 ## 🔌 Geräte zur Verbindung
 - **Switch (L2)**: Verbindet Hosts im selben Netz
