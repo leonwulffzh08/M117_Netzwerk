@@ -46,12 +46,15 @@
 - Verbindung ins Internet via Swisscom-ADSL
 
 ### Aufgaben
-#### 1:
+1:
 [Aufgabe 1](./Aufgaben/Tag1/Aufgabe1.md)
-#### 2:
+<br>
+2:
 [Aufgabe 2](./Aufgaben/Tag1/Aufgabe2.md)
-#### 3:
+<br>
+3:
 [Aufgabe 3](./Aufgaben/Tag1/Aufgabe3.md)
+<br>
 
 ## 🔌 Geräte zur Verbindung
 - **Switch (L2)**: Verbindet Hosts im selben Netz
@@ -150,10 +153,11 @@ Beispiele wurden mit `/8`, `/16` und `/24` durchgerechnet (siehe Musterlösungen
 - Private IPs sind **nur intern gültig**, für extern braucht es NAT
 
 ### Aufgaben
-#### 1:
+1:
 [Aufgabe 1](./Aufgaben/Tag2/Aufgabe1.md)
-#### 2:
+<br>
+2:
 [Aufgabe 2](./Aufgaben/Tag2/Aufgabe2.md)
+<br>
 
-<hr>
 [Theorie Tag2](./Pdfs/Tag2.pdf)
