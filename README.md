@@ -149,4 +149,11 @@ Beispiele wurden mit `/8`, `/16` und `/24` durchgerechnet (siehe Musterlösungen
 - `ipconfig` zeigt dir, **was dein Rechner denkt, wer er ist**
 - Private IPs sind **nur intern gültig**, für extern braucht es NAT
 
+### Aufgaben
+#### 1:
+[Aufgabe 1](./Aufgaben/Tag2/Aufgabe1.md)
+#### 2:
+[Aufgabe 2](./Aufgaben/Tag2/Aufgabe2.md)
+
+
 [Theorie Tag2](./Pdfs/Tag2.pdf)
