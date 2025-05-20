@@ -162,5 +162,11 @@ Beispiele wurden mit `/8`, `/16` und `/24` durchgerechnet (siehe Musterlösungen
 3:
 [Aufgabe 3](./Aufgaben/Tag2/Aufgabe3.md)
 <br>
+4:
+[Aufgabe 4](./Aufgaben/Tag2/Aufgabe4.md)
+<br>
+5:
+[Aufgabe 5](./Aufgaben/Tag2/Aufgabe5.md)
+<br>
 
 [Theorie Tag2](./Pdfs/Tag2.pdf)
