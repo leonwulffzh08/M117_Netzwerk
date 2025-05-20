@@ -50,6 +50,8 @@
 [Aufgabe 1](./Aufgaben/Tag1/Aufgabe1.md)
 #### 2:
 [Aufgabe 2](./Aufgaben/Tag1/Aufgabe2.md)
+#### 3:
+[Aufgabe 3](./Aufgaben/Tag1/Aufgabe3.md)
 
 ## 🔌 Geräte zur Verbindung
 - **Switch (L2)**: Verbindet Hosts im selben Netz
